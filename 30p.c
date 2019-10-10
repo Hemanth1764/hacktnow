@@ -1,5 +1,7 @@
 #include <stdio.h>
 int main()
+
+
 {
   int a, x[6], sum = 0;
   printf("Enter 6 numbers: ");
@@ -11,4 +13,6 @@ int main()
   }
   printf("Sum = %d", sum);
   return 0;
+
+
 }
