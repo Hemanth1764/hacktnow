@@ -12,10 +12,20 @@ int main()
  
    printf("%s\n", p);
  return 0;
+
+
+
 }
+
+
+
  
    void reverse(char *y, int begin, int end)
-{
+
+   
+   {
+	   
+	   
 	   
    char c;
  
