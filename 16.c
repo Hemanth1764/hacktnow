@@ -27,4 +27,6 @@ printf(" %d ", b[i]);
 flag = 0;
 }
 return 0;
+
+
 }
